@@ -7,8 +7,5 @@
 
 </head>
 <body>
-
-    ahora se modifica el master y no el actualizado
-
 </body>
 </html>
