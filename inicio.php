@@ -7,8 +7,8 @@
 
 </head>
 <body>
-    <h1>hola mundo</h1>
 
-    <h3>para ver la modificacion</h3>
+    ahora se modifica el master y no el actualizado
+
 </body>
 </html>
